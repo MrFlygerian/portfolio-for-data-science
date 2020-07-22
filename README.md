@@ -16,8 +16,8 @@ This is a central repository documenting my journey through machine learning alg
      
 - ### Business Projects
      - [Monitoring product prices with scrapy](https://github.com/MrFlygerian/PriceTracker): jfiosjdfklsdf
-
-         _Tools: Scrapy, css
+     
+     _Tools: Scrapy, css
 
 
 - ### Mini Projects
@@ -25,7 +25,7 @@ This is a central repository documenting my journey through machine learning alg
 
 
 - ### Kaggle Projects
-    - [placeholder] (https://github.com/MrFlygerian): placeholder
+    - [placeholder](https://github.com/MrFlygerian): placeholder
 
 
 
