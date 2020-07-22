@@ -11,20 +11,21 @@ This is a central repository documenting my journey through machine learning alg
 - ### Natural Language Processing
      - [Twitter sentiment analysis](https://github.com/MrFlygerian/TwitterSentimentAnalysis): Using Niave Bayes to classify opinions based on their tweets.
 
-_Tools: NLTK, NiaveBayes             
+        _Tools: NLTK, NiaveBayes             
 
      
 - ### Business Projects
      - [Monitoring product prices with scrapy](https://github.com/MrFlygerian/PriceTracker): jfiosjdfklsdf
 
-_Tools: Scrapy, css
+         _Tools: Scrapy, css
 
 
 - ### Mini Projects
+    - [placeholder](https://github.com/MrFlygerian): placeholder
 
 
 - ### Kaggle Projects
-
+    - [placeholder] (https://github.com/MrFlygerian): placeholder
 
 
 
