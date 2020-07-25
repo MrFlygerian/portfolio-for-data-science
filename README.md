@@ -26,7 +26,7 @@ This is a central repository documenting my journey through machine learning alg
     
     - [Logistic Regression](https://github.com/MrFlygerian/LogisticRegression): Simple implemtation of logistic regression for determing gender from weight and height coupled with some manufactured data for graphical purposes.
     
-    - [Linear Regression for Boston House Prices](https://github.com/MrFlygerian/BostonHousePrediction): 
+    - [Linear Regression for Boston House Prices](https://github.com/MrFlygerian/BostonHousePrediction): Predicting house prices on the popular boston house dataset using a Decision Tree regressor, using Grid Search to analyse and visualise optimisation parameters (max depth, nearest neighbours).  
    
    _Tools_: Logistic Regression, Linear Regression, Decision Trees 
    
