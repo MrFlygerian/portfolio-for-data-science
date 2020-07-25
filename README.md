@@ -9,6 +9,7 @@ This is a central repository documenting my journey through machine learning alg
     
 - ### Natural Language Processing
      - [Twitter sentiment analysis](https://github.com/MrFlygerian/TwitterSentimentAnalysis): Using Niave Bayes to classify opinions based on their tweets.
+     
      -[Twitter and WordClouds](https://github.com/MrFlygerian/Twitter-and-WordCloud): Creating wordclouds using Twitter's API. Tweets used come from the timeline or a given search term. 
 
     _Tools_: NLTK, NiaveBayes, Twitter API, Wordclouds
