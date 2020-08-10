@@ -22,7 +22,7 @@ This is a central repository documenting my journey through machine learning alg
 
 
 - ### Beginner Projects
-    - [Recommendation Systems](https://github.com/MrFlygerian/Building-a-song-recommender): A recommendation system for songs built from two data tables of a million instances each.
+    - [Recommendation Systems](https://github.com/MrFlygerian/MusicRecommender): A recommendation system for songs built from two data tables of a million instances each.
     
     - [Logistic Regression](https://github.com/MrFlygerian/LogisticRegression): Simple implemtation of logistic regression for determing gender from weight and height coupled with some manufactured data for graphical purposes.
     
