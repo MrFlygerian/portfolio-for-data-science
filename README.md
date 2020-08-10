@@ -5,7 +5,7 @@ This is a central repository documenting my journey through machine learning alg
 
 ## Contents
 - ### Deep Learning 
-    - [Document Summarisation using Keras](https://github.com/MrFlygerian/NLP-Document-Summary): Deep learning model built using Keras to summarise a document in a paragraph. A cwell studied, 'control' document is used (Alice in wonderland) in order to compare results to 'real world data' in the form of some old essays I wrote.
+    - [Document Summarisation using Keras](https://github.com/MrFlygerian/NLP-Document-Summary): Deep learning model built using Keras to summarise a document in a paragraph. A well studied, 'control' document is used (Alice in wonderland) in order to compare results to 'real world data' in the form of some old essays I wrote.
     
 - ### Natural Language Processing
      - [Twitter sentiment analysis](https://github.com/MrFlygerian/TwitterSentimentAnalysis): Analysing tweets to extract thier sentiment using Niave Bayes, with custom error evaluation in the form of nltk pos taggers.
