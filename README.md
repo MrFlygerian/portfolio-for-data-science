@@ -1,3 +1,6 @@
+
+# UNDER CONSTRUCTION
+
 # Portfolio for data science
 Central repository for navigation for all data science related projects.
 
@@ -6,6 +9,7 @@ This is a central repository documenting my journey through machine learning alg
 ## Contents
 - ### Deep Learning 
     - [Document Summarisation using Keras](https://github.com/MrFlygerian/NLP-Document-Summary): Deep learning model built using Keras to summarise a document in a paragraph. A well studied, 'control' document is used (Alice in wonderland) in order to compare results to 'real world data' in the form of some old essays I wrote.
+    [Link to notebook](https://github.com/MrFlygerian/NLP-Document-Summary/blob/master/Document_Summariser_(control).ipynb)
     
 - ### Natural Language Processing
      - [Twitter sentiment analysis](https://github.com/MrFlygerian/TwitterSentimentAnalysis): Analysing tweets to extract thier sentiment using Niave Bayes, with custom error evaluation in the form of nltk pos taggers.
@@ -23,6 +27,8 @@ This is a central repository documenting my journey through machine learning alg
 
 - ### Beginner Projects
     - [Recommendation Systems](https://github.com/MrFlygerian/MusicRecommender): A recommendation system for songs built from two data tables of a million instances each.
+        -[Link to preprocessing file](https://github.com/MrFlygerian/MusicRecommender/blob/master/MusicDataPreprocessing.py)
+        -[Link to notebook](https://github.com/MrFlygerian/MusicRecommender/blob/master/Recommenders.ipynb)
     
     - [Logistic Regression](https://github.com/MrFlygerian/LogisticRegression): Simple implemtation of logistic regression for determing gender from weight and height coupled with some manufactured data for graphical purposes.
     
@@ -32,7 +38,9 @@ This is a central repository documenting my journey through machine learning alg
    
 
 - ### Kaggle Projects
-    - [placeholder](https://github.com/MrFlygerian): placeholder
+    - [Predicting House Prices](https://github.com/MrFlygerian/Predicting-House-Price): Predicting House Prices with advanced linear regression techniques.
+    [Link to Notebook].(https://github.com/MrFlygerian/Predicting-House-Price/blob/master/Initial%20Spyder%20script.py)
+    - [Tweet Classification](https://github.com/MrFlygerian/Tweet-classification): Classifiying tweets as real or fake disasters using NLP. 
 
 ---
 
