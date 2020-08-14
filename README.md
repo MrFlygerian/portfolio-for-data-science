@@ -8,16 +8,16 @@ This is a central repository documenting my journey through machine learning alg
 
 ## Contents
 - ### Deep Learning 
-    - [Document Summarisation using Keras](https://github.com/MrFlygerian/NLP-Document-Summary): Deep learning model built using Keras to summarise a document in a paragraph. A well studied, 'control' document is used (Alice in wonderland) in order to compare results to 'real world data' in the form of some old essays I wrote.
+    - [Document Summarisation using Keras](https://github.com/MrFlygerian/NLP-Document-Summary): Deep learning model built using Keras to summarise a document in a paragraph. A well-studied, 'control' document is used (Alice in wonderland) in order to compare results to 'real world data' in the form of some old essays I wrote.
         - [Link to notebook](https://github.com/MrFlygerian/NLP-Document-Summary/blob/master/Document_Summariser_(control).ipynb)
     
 - ### Natural Language Processing
-     - [Twitter sentiment analysis](https://github.com/MrFlygerian/TwitterSentimentAnalysis): Analysing tweets to extract thier sentiment using Niave Bayes, with custom error evaluation in the form of nltk pos taggers.
+     - [Twitter sentiment analysis](https://github.com/MrFlygerian/TwitterSentimentAnalysis): Analysing tweets to extract their sentiment using Naive Bayes, with custom error evaluation in the form of nltk pos taggers.
      
      - [Twitter and WordClouds](https://github.com/MrFlygerian/WordClouds): The creation of word clouds from two sources: a given twitter timeline and a given set of twitter search term results.
         - [Link to Notebook](https://github.com/MrFlygerian/WordClouds/blob/master/WordClouds.ipynb).
 
-    _Tools_: NLTK, NiaveBayes, Twitter API, Wordclouds
+    _Tools_: NLTK, NaiveBayes, Twitter API, Wordclouds
 
      
 - ### Business Projects
@@ -28,12 +28,12 @@ This is a central repository documenting my journey through machine learning alg
 
 - ### Beginner Projects
    - [Recommendation Systems](https://github.com/MrFlygerian/MusicRecommender): A recommendation system for songs built from two data tables of a million instances each.
-      - [Link to preprocessing file](https://github.com/MrFlygerian/MusicRecommender/blob/master/MusicDataPreprocessing.py).
+      - [Link to pre-processing file](https://github.com/MrFlygerian/MusicRecommender/blob/master/MusicDataPreprocessing.py).
       - [Link to notebook](https://github.com/MrFlygerian/MusicRecommender/blob/master/Recommenders.ipynb).
     
-    - [Logistic Regression](https://github.com/MrFlygerian/LogisticRegression): Simple implemtation of logistic regression for determing gender from weight and height coupled with some manufactured data for graphical purposes.
+    - [Logistic Regression](https://github.com/MrFlygerian/LogisticRegression): Simple implementation of logistic regression for determine gender from weight and height coupled with some manufactured data for graphical purposes.
     
-    - [Linear Regression for Boston House Prices](https://github.com/MrFlygerian/BostonHousePrediction): Predicting house prices on the popular boston house dataset using a Decision Tree for Regression. GridSearch is implemented to analyse and visualise optimisation parameters (max depth, nearest neighbours).  
+    - [Linear Regression for Boston House Prices](https://github.com/MrFlygerian/BostonHousePrediction): Predicting house prices on the popular Boston house dataset using a Decision Tree for Regression. GridSearch is implemented to analyse and visualise optimisation parameters (max depth, nearest neighbours).  
    
    _Tools_: Logistic Regression, Linear Regression, Decision Trees 
    
@@ -42,11 +42,11 @@ This is a central repository documenting my journey through machine learning alg
     - [Predicting House Prices](https://github.com/MrFlygerian/Predicting-House-Price): Predicting House Prices with advanced linear regression techniques.
       - [Link to Notebook](https://github.com/MrFlygerian/Predicting-House-Price/blob/master/Kaggle%20comp%20Notebook.ipynb).
       
-    - [Tweet Classification](https://github.com/MrFlygerian/Tweet-classification): Classifiying tweets as real or fake disasters using NLP. 
+    - [Tweet Classification](https://github.com/MrFlygerian/Tweet-classification): Classifying tweets as real or fake disasters using NLP. 
 
 ---
 
-I also have a soundcloud to showcase my production work, some of which is augmented with data science, as well as a blog in which I talk about many different things. Links:
+I also have a SoundCloud to showcase my production work, some of which is augmented with data science, as well as a blog in which I talk about many different things. Links:
 - [placeholder]
 - [placeholder]
 
