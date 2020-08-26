@@ -8,28 +8,19 @@ This is a central repository documenting my journey through machine learning alg
 
 ## Contents
 - ### Deep Learning 
-    - [Document Summarisation using Keras](https://github.com/MrFlygerian/NLP-Document-Summary): Deep learning model built using Keras to summarise a document in a paragraph. A well-studied, 'control' document is used (Alice in wonderland) in order to compare results to 'real world data' in the form of some old essays I wrote.
-        - [Link to notebook](https://github.com/MrFlygerian/NLP-Document-Summary/blob/master/Document_Summariser_(control).ipynb)
+    - [Document Summarisation using Keras](https://github.com/MrFlygerian/NLP-Document-Summary/blob/master/Document_Summariser_(control).ipynb): Deep learning model built using Keras to summarise a document in a paragraph. A well-studied, 'control' document is used (Alice in wonderland) in order to compare results to 'real world data' in the form of some old essays I wrote (the 'real world data' is not shown).
     
 - ### Natural Language Processing
      - [Twitter sentiment analysis](https://github.com/MrFlygerian/TwitterSentimentAnalysis): Analysing tweets to extract their sentiment using Naive Bayes, with custom error evaluation in the form of nltk pos taggers.
      
-     - [Twitter and WordClouds](https://github.com/MrFlygerian/WordClouds): The creation of word clouds from two sources: a given twitter timeline and a given set of twitter search term results.
-        - [Link to Notebook](https://github.com/MrFlygerian/WordClouds/blob/master/WordClouds.ipynb).
+     - [Twitter and WordClouds](https://github.com/MrFlygerian/WordClouds/blob/master/WordClouds.ipynb): The creation of word clouds from two sources: a given twitter timeline and a given set of twitter search term results.
 
     _Tools_: NLTK, NaiveBayes, Twitter API, Wordclouds
 
-     
-- ### Business Projects
-     - [Monitoring product prices with scrapy](https://github.com/MrFlygerian/PriceTracker): Creating a price tracker for various websites using the Scrapy web scraping framework to use data science for predicting changes in pricing strategy over time.
-     
-     _Tools_: Scrapy, css
-
 
 - ### Beginner Projects
-   - [Recommendation Systems](https://github.com/MrFlygerian/MusicRecommender): A recommendation system for songs built from two data tables of a million instances each.
+   - [Recommendation Systems](https://github.com/MrFlygerian/MusicRecommender/blob/master/Recommenders.ipynb): A recommendation system for songs built from two data tables of a million instances each.
       - [Link to pre-processing file](https://github.com/MrFlygerian/MusicRecommender/blob/master/MusicDataPreprocessing.py).
-      - [Link to notebook](https://github.com/MrFlygerian/MusicRecommender/blob/master/Recommenders.ipynb).
     
     - [Logistic Regression](https://github.com/MrFlygerian/LogisticRegression): Simple implementation of logistic regression for determine gender from weight and height coupled with some manufactured data for graphical purposes.
     
@@ -39,8 +30,7 @@ This is a central repository documenting my journey through machine learning alg
    
 
 - ### Kaggle Projects
-    - [Predicting House Prices](https://github.com/MrFlygerian/Predicting-House-Price): Predicting House Prices with advanced linear regression techniques.
-      - [Link to Notebook](https://github.com/MrFlygerian/Predicting-House-Price/blob/master/Kaggle%20comp%20Notebook.ipynb).
+    - [Predicting House Prices](https://github.com/MrFlygerian/Predicting-House-Price/blob/master/Kaggle%20comp%20Notebook.ipynb): Predicting House Prices with advanced linear regression techniques.
       
     - [Tweet Classification](https://github.com/MrFlygerian/Tweet-classification): Classifying tweets as real or fake disasters using NLP. 
 
