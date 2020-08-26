@@ -32,7 +32,7 @@ This is a central repository documenting my journey through machine learning alg
 - ### Kaggle Projects
     - [Predicting House Prices](https://github.com/MrFlygerian/Predicting-House-Price/blob/master/Kaggle%20comp%20Notebook.ipynb): Predicting House Prices with advanced linear regression techniques.
       
-    - [Tweet Classification](https://github.com/MrFlygerian/Tweet-classification): Classifying tweets as real or fake disasters using NLP. 
+    - [Tweet Classification](https://github.com/MrFlygerian/Tweet-classification/blob/master/Kaggle%20Comp%20Notebook.ipynb): Classifying tweets as real or fake disasters using NLP. 
 
 ---
 
