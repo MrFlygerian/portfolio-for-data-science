@@ -37,7 +37,6 @@ This is a central repository documenting my journey through machine learning alg
 ---
 
 I also have a SoundCloud to showcase my production work, some of which is augmented with data science, as well as a blog in which I talk about many different things. Links:
-- [placeholder]
-- [placeholder]
+- [Sound Cloud](https://soundcloud.com/blessed-chia)
 
 Happy browsing!
