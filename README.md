@@ -9,6 +9,8 @@ This is a central repository documenting my journey through machine learning alg
 ## Contents
 - ### Deep Learning 
     - [Document Summarisation using Keras](https://github.com/MrFlygerian/NLP-Document-Summary/blob/master/Document_Summariser_(control).ipynb): Deep learning model built using Keras to summarise a document in a paragraph. A well-studied, 'control' document is used (Alice in wonderland) in order to compare results to 'real world data' in the form of some old essays I wrote (the 'real world data' is not shown).
+    - [Matching questions across languages with Tensorflow](https://github.com/MrFlygerian/FAQ_matcher/blob/master/FAQ_matcher_notebook.ipynb): Using the multilingual universal sentence encoder in order to match questions across laguages, in affect teaching the encoder to translate across languages.   
+    
     
 - ### Natural Language Processing
      - [Twitter sentiment analysis](https://github.com/MrFlygerian/TwitterSentimentAnalysis): Analysing tweets to extract their sentiment using Naive Bayes, with custom error evaluation in the form of nltk pos taggers.
