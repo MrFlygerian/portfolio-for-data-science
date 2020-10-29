@@ -34,7 +34,7 @@ This is a central repository documenting my journey through machine learning alg
     - [Predicting House Prices](https://github.com/MrFlygerian/Predicting-House-Price/blob/master/Kaggle%20comp%20Notebook.ipynb): Predicting House Prices with advanced linear regression techniques. A Kaggle competition.
       
     - [Tweet Classification](https://github.com/MrFlygerian/Tweet-classification/blob/master/Kaggle%20Comp%20Notebook.ipynb): Classifying tweets as real or fake disasters using NLP. A Kaggle competition.
-    - [Novoic ML Image Challenge](https://github.com/MrFlygerian/portfolio-for-data-science/blob/master/Blessed_Image_Novoic_ML_challenge.ipynb): Open ended challenge, where I tested the power of imagenet weights for classifying photographs by thier most dominant features. The link to the original challange can be found [here](https://github.com/novoic/ml-challenge/blob/master/image_challenge.ipynb).
+    - [Novoic ML Image Challenge](https://github.com/MrFlygerian/portfolio-for-data-science/blob/master/Blessed_Image_Novoic_ML_challenge.ipynb): Open ended challenge, where I tested the power of imagenet weights for classifying photographs by thier most dominant features. The link to the original challenge can be found [here](https://github.com/novoic/ml-challenge/blob/master/image_challenge.ipynb).
     
 
 ---
